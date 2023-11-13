@@ -1,0 +1,9 @@
+{
+    "welcome": "aws-iot-world",
+    "bedroom-light": "off",
+    "kitchen-light": "on",
+    "living-room-light": "off",
+    "bedroom-temp": "20",
+    "kitchen-temp": "22",
+    "living-room-temp": "39"
+}
