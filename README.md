@@ -18,4 +18,6 @@ source ./.venv/bin/activate
 you should see (.venv) in your prompt
 
 * Install Depedencies
+```
 pip install -r requirements.txt
+```
